@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-Another test.
-
 <!--
 
 **Here are some ideas to get you started:**
